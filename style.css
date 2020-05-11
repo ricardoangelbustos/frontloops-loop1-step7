@@ -144,6 +144,9 @@ body{
     }
 }
 @media (max-width: 707px) {
+    .container{
+        width: 80%;
+    }
     .text{
         font-size: 10px;
         line-height: 15px;
